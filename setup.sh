@@ -4,7 +4,7 @@
 set -e
 
 if [ ! -d "bakerydemo" ]; then
-    git clone https://github.com/wagtail/bakerydemo.git
+    git clone https://github.com/itsashishrath/bakerydemo.git
 else
     echo Directory bakerydemo already exists, skipping...
 fi
