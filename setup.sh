@@ -11,7 +11,7 @@ fi
 
 
 if [ ! -d "wagtail" ]; then
-    git clone https://github.com/wagtail/wagtail.git
+    git clone https://github.com/itsashishrath/wagtail.git
 else
     echo Directory wagtail already exists, skipping...
 fi
